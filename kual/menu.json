@@ -1,0 +1,20 @@
+{
+	"items": [
+		{
+			"name": "rclone WebUI",
+			"priority": 0,
+			"items": [
+				{
+					"name": "Запустить Веб-сервер",
+					"priority": -1,
+					"action": "sh web_start.sh"
+				},
+				{
+					"name": "Остановить Веб-сервер",
+					"priority": -1,
+					"action": "sh web_stop.sh"
+				}
+			]
+		}
+	]
+}
