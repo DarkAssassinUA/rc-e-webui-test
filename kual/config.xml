@@ -2,7 +2,7 @@
 <extension>
 	<information>
 		<name>rclone web-ui</name>
-		<version>0.1</version>
+		<version>0.1xxx</version>
 		<author>Dark_AssassinUA</author>
 		<id>rclone</id>
 	</information>
