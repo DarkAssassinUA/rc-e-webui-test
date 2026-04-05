@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension>
 	<information>
-		<name>rclone web-ui</name>
-		<version>0.1xxx</version>
+		<name>rcloneW</name>
+		<version>0.1</version>
 		<author>Dark_AssassinUA</author>
-		<id>rclone</id>
+		<id>rcloneW</id>
 	</information>
 	<menus>
 		<menu type="json" dynamic="true">menu.json</menu>
